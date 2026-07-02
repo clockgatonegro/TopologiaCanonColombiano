@@ -12,7 +12,8 @@ Este repositorio contiene el pipeline completo utilizado para realizar el análi
 - `resultados_spacy.csv` — Métricas estilométricas extraídas con spaCy.
 - `resultados_stanza.csv` — Métricas estilométricas extraídas con Stanza.
 - `Rayos_X_Red_Canon.csv` — Matriz de similitud y palabras puente entre obras.
-- `Red_Canon_Colombiano.gexf` — Red exportada y lista para su visualización espacial en Gephi.
+- `Red_Canon.gephi` — Red lista para su visualización espacial en Gephi.
+- `Centralidad_red_canon.csv` — Medidas de centralidad de la Red del canon Colombiano
 
 ## ⚙️ Requisitos e Instalación
 
